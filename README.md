@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Atiq Urrehaman</h1>
 <h3 align="center">Quantum Artificial Intelligence Enthusiast</h3>
 
-<a href="https://app.daily.dev/Adam"><img src="https://github.com/Adam-Al-Rahman/Adam-Al-Rahman/blob/master/devcard.svg" width="400" alt="Adam Al-Rahman's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/Adam"><img src="https://github.com/Adam-Al-Rahman/Adam-Al-Rahman/blob/master/devcard.svg" width="400" alt="Adam Al-Rahman's Dev Card"/></a>
 
 # 💫About Me :
 
