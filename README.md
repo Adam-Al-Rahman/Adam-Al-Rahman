@@ -1,5 +1,5 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1343972826655551488/1653244337/1500x500)
-<h1 align="center">Hi 👋, I'm Atiq Urrehaman</h1>
+<h1 align="center">Hi <span><img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30"></span>, I'm Atiq Urrehaman</h1>
 <h3 align="center">Quantum Artificial Intelligence Enthusiast</h3>
 
 <a align="right" href="https://app.daily.dev/Adam"><img align="right" src="https://github.com/Adam-Al-Rahman/Adam-Al-Rahman/blob/master/devcard.svg" width="256" alt="Adam Al-Rahman's Dev Card"/></a>
