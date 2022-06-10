@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Tensorflow, Nextjs, Tailwindcss**
 
-- 📫 How to reach me **quodscientialegis@gmail.com**
+- 📫 How to reach me **atiqurrehaman0@gmail.com**
 
 - 📄 Know about my experiences [https://atiq-ur-rehaman.netlify.app/resume.pdf](https://atiq-ur-rehaman.netlify.app/resume.pdf)
 
