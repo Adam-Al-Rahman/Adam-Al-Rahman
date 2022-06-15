@@ -1,7 +1,10 @@
 ![MasterHead](./assets/banner.png)
 
-<h1 align="center">Hi <span><img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30"></span>, I'm Atiq Urrehaman</h1>
-<h3 align="center">Quantum Artificial Intelligence Enthusiast</h3>
+<div style="margin-left: 15rem;">
+<img src="./assets/logo.png" width=100 align="left">
+<h1 align="left">Hi <span><img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30"></span>, I'm Atiq Urrehaman</h1>
+<h3 align="left">Quantum Artificial Intelligence Enthusiast</h3>
+</div>
 
 <br/>
 <br/>
