@@ -52,13 +52,15 @@
 
 <br/>
 
+## GitHub Contribution
+
+![GitHub Contribution](https://github.com/Adam-Al-Rahman/Adam-Al-Rahman/blob/output/github-contribution-grid-snake.gif)
+
+<br/>
+
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### GitHub Contribution
-
-![GitHub Contribution](https://github.com/Adam-Al-Rahman/Adam-Al-Rahman/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
