@@ -54,7 +54,7 @@
 
 ## GitHub Contribution
 
-![GitHub Contribution](https://github.com/Adam-Al-Rahman/Adam-Al-Rahman/blob/output/github-contribution-grid-snake.gif)
+![GitHub Contribution](https://github.com/Adam-Al-Rahman/Adam-Al-Rahman/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
