@@ -12,7 +12,7 @@
 
 # 💫About Me
 
-- 🔭 I’m currently working on [Base-X](https://github.com/Adam-Al-Rahman/base-x#readme)
+- 🔭 I’m currently working on [Rimuru](https://github.com/Adam-Al-Rahman/rimuru#readme)
 
 - 🌱 I’m currently learning **Rust: Programming language**
 
