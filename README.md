@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi <span><img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30"></span>, I'm Atiq Urrehaman</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5500&color=C9D1D9&width=500&lines=Quantum+Artificial+Intelligence+Enthusiast+;Artificial+Intelligence+Student;Competitive+Programmer;Researcher;Web+Developer;Polyglot+Programmer;Pythoneer;Rustacean)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5500&color=C9D1D9&width=500&lines=Quantum+Artificial+Intelligence+Enthusiast+;Artificial+Intelligence+Student;Researcher+|+Polyglot+Programmer;Web+Developer;Pythoneer+|+Rustacean)](https://git.io/typing-svg)
 <br/>
 <br/>
 
@@ -18,17 +18,25 @@
 
 - 👨‍💻 All of my projects are available at [https://atiq-ur-rehaman.netlify.app/](https://atiq-ur-rehaman.netlify.app/)
 
-- 💬 Ask me about **Tensorflow, Nextjs, Tailwindcss**
+- 💬 Ask me about **Python, Nextjs, Tailwindcss, AI**
 
 - 📫 How to reach me **atiqurrehaman0@gmail.com**
 
+<!---
 - 📄 Know about my experiences [https://atiq-ur-rehaman.netlify.app/resume.pdf](https://atiq-ur-rehaman.netlify.app/resume.pdf)
+--->
 
 <br/>
 
 ## 🌐Socials
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14925917) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@atiq_urrehaman) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiq-urrehaman/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/adamalrahman) [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/_adam_) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Adam_Al-Rahman/) [![GoodRead](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/146301062-adam-al-rahman) [![Keymash](./assets/keymash.svg)](https://keymash.io/profile/Adam-9705/) [![Grepper](./assets/grepper.svg)](https://www.codegrepper.com/profile/adam-alrahman)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14925917) [![Grepper](./assets/grepper.svg)](https://www.codegrepper.com/profile/adam-alrahman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@atiq_urrehaman)  [![Keymash](./assets/keymash.svg)](https://keymash.io/profile/Adam-9705/)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiq-urrehaman/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/adamalrahman)
+
+<!---
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/_adam_) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Adam_Al-Rahman/) [![GoodRead](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/146301062-adam-al-rahman)
+--->
 
 <br/>
 
@@ -40,16 +48,19 @@
 
 # 📊GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Adam-Al-Rahman&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adam-Al-Rahman&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Adam-Al-Rahman&theme=radical&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=Adam-Al-Rahman&theme=radical&hide_border=false)<br/>
 
 <br/>
+
+<!---
 
 ## 🏆GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Adam-Al-Rahman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br/>
+
+--->
 
 ## GitHub Contribution
 
