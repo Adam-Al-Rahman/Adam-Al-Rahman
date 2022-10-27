@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Rimuru](https://github.com/Adam-Al-Rahman/rimuru#readme)
 
-- 🌱 I’m currently learning: **Pybind11**
+- 🌱 I’m currently learning: [Bazel](https://bazel.build/)
 
 - 👨‍💻 All of my projects are available at [https://atiq-ur-rehaman.netlify.app/](https://atiq-ur-rehaman.netlify.app/)
 
