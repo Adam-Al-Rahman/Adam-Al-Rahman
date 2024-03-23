@@ -12,7 +12,7 @@
 
 # 💫About Me
 
-- 🔭 I’m currently working on [REMX](https://github.com/Adam-Al-Rahman/remx_yolo#readme)
+- 🔭 I’m currently working on [HomeZ](https://github.com/Vijay-J0shi/HomeZ#readme)
 
 - 🌱 I’m currently learning: [Bazel](https://bazel.build/)
 
