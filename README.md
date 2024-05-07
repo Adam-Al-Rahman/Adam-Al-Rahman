@@ -12,13 +12,13 @@
 
 # About Me
 
-- I’m currently working on [HomeZ](https://github.com/Vijay-J0shi/HomeZ#readme)
+- I’m currently working on [NetzwerX](https://github.com/Adam-Al-Rahman/netzwerx#readme)
 
 - I’m currently learning: [Bazel](https://bazel.build/)
 
 - All of my projects are available at [https://atiq-ur-rehaman.netlify.app/](https://atiq-ur-rehaman.netlify.app/)
 
-- Ask me about **Python, Nextjs, Tailwindcss, AI**
+- Ask me about **Artificial Intelligence, Computer Network, C++, Python**
 
 - How to reach me **atiqurrehaman0@gmail.com**
 
