@@ -14,7 +14,7 @@
 
 - I’m currently working on [NetzwerX](https://github.com/Adam-Al-Rahman/netzwerx#readme)
 
-- I’m currently learning: [Bazel](https://bazel.build/)
+- I’m currently learning: [Pytorch](https://pytorch.org)
 
 - All of my projects are available at [https://atiq-ur-rehaman.netlify.app/](https://atiq-ur-rehaman.netlify.app/)
 
