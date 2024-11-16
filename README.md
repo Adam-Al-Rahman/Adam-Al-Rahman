@@ -12,9 +12,9 @@
 
 # About Me
 
-- I’m currently working on [NetzwerX](https://github.com/Adam-Al-Rahman/netzwerx#readme)
+- Currently working on [NetzwerX](https://github.com/Adam-Al-Rahman/netzwerx#readme)
 
-- I’m currently learning: [Pytorch](https://pytorch.org)
+- Currently learning: Bayesian Statistics
 
 - All of my projects are available at [https://atiq-ur-rehaman.netlify.app/](https://atiq-ur-rehaman.netlify.app/)
 
