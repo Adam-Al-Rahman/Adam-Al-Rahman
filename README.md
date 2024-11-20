@@ -38,7 +38,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Adam_Al-Rahman/) [![GoodRead](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/146301062-adam-al-rahman)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@atiq_urrehaman)  [![Keymash](./assets/keymash.svg)](https://keymash.io/profile/Adam-9705/)
 --->
 
-<br/>
 
 # Tech Stack
 
@@ -58,7 +57,10 @@
 
 <br/>
 
-### Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║ Most good programmers do programming not because they expect to get paid ║
+║ or get adulation by the public, but because it is fun to  program.       ║
+║ > Linus Torvalds                                                         ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
