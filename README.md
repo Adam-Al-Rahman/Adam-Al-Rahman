@@ -12,32 +12,13 @@
 
 # About Me
 
-- Currently working on [NetzwerX](https://github.com/Adam-Al-Rahman/netzwerx#readme)
+- Working: SnowPetrelX
 
-- Currently learning: Bayesian Statistics
-
-- All of my projects are available at [https://atiq-ur-rehaman.netlify.app/](https://atiq-ur-rehaman.netlify.app/)
+- Learning: Bayesian Statistics
 
 - Ask me about **Artificial Intelligence, Computer Network, C++, Python**
 
-- How to reach me **atiqurrehaman0@gmail.com**
-
-<!---
-- 📄 Know about my experiences [https://atiq-ur-rehaman.netlify.app/resume.pdf](https://atiq-ur-rehaman.netlify.app/resume.pdf)
---->
-
 <br/>
-
-## Socials
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14925917) [![Grepper](./assets/grepper.svg)](https://www.codegrepper.com/profile/adam-alrahman)
-
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/_adam_) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiq-urrehaman/)
-
-<!---
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Adam_Al-Rahman/) [![GoodRead](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/146301062-adam-al-rahman)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@atiq_urrehaman)  [![Keymash](./assets/keymash.svg)](https://keymash.io/profile/Adam-9705/)
---->
-
 
 # Tech Stack
 
