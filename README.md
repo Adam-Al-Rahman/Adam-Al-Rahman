@@ -12,7 +12,7 @@
 
 # About Me
 
-- Working: SnowPetrelX
+- Working: [SalientX](https://github.com/Adam-Al-Rahman/SalientX)
 
 - Learning: Distributed Model Training
 
