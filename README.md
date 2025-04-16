@@ -14,7 +14,7 @@
 
 - Working: SnowPetrelX
 
-- Learning: Bayesian Statistics
+- Learning: Distributed Model Training
 
 - Ask me about **Artificial Intelligence, Computer Network, C++, Python**
 
