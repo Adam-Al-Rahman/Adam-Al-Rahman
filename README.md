@@ -12,9 +12,9 @@
 
 # About Me
 
-- Working: [SalientX](https://github.com/Adam-Al-Rahman/SalientX)
+- Working: [model_x (simple llm in c++ with bazel build system)]([https://github.com/Adam-Al-Rahman/SalientX](https://github.com/Adam-Al-Rahman/model_x))
 
-- Learning: Distributed Model Training
+- Learning: Trapped Ion (Hyperfine FOFI Qubit)
 
 - Ask me about **Artificial Intelligence, Computer Network, C++, Python**
 
