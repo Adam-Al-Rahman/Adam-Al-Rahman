@@ -12,7 +12,7 @@
 
 # About Me
 
-- Working: [model_x (basic llm in c++ with bazel build system)](https://github.com/Adam-Al-Rahman/model_x)
+- Working: [next-load - power forecast](https://github.com/Adam-Al-Rahman/next-load)
 
 - Learning: Trapped Ion (Hyperfine FOFI Qubit)
 
