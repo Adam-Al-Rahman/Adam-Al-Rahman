@@ -14,7 +14,7 @@
 
 - Working: [next-load - power forecast](https://github.com/Adam-Al-Rahman/next-load)
 
-- Learning: Trapped Ion (Hyperfine FOFI Qubit)
+- Learning: Time Series Statistics
 
 - Ask me about **Artificial Intelligence, Computer Network, C++, Python**
 
