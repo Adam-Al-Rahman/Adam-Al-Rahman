@@ -14,7 +14,7 @@
 
 - Working: [tabguard - validating structured datasets](https://github.com/Adam-Al-Rahman/tabguard)
 
-- Learning: Time Series Statistics
+- Learning: Feature Engineering
 
 - Ask me about **Artificial Intelligence, Computer Network, C++, Python**
 
