@@ -12,11 +12,11 @@
 
 # About Me
 
-- Working: [tabguard - validating structured datasets](https://github.com/Adam-Al-Rahman/tabguard)
+- Working: [Loadshift - Optimize Factory Energy Operations](https://github.com/Adam-Al-Rahman/loadshift)
 
-- Learning: Feature Engineering
+- Learning: Mixed-Integer Linear Programming
 
-- Ask me about **Artificial Intelligence, Computer Network, C++, Python**
+- Ask me about **Artificial Intelligence, Computer Network, Rust, Python**
 
 <br/>
 
